@@ -12,9 +12,14 @@ Done! You will have to use pip to install requirements if needed (Dont beg me fo
 
 
 How to get the key
-Learning how shit there key system is, it auto deletes the key after it finds a correct key so once it finds a key it
-will automatically download Electron.zip to your downloads once it's succesful
-to get key u need to go to files and run ElectronKeyFinder
+First click green button says code
+
+second click download zip
+
+
+third go inside the zip that was downloading
+
+fourth run ElectronKeyFinder
 
 Credits
 Nano
