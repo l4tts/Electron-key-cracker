@@ -12,6 +12,9 @@ Done! You will have to use pip to install requirements if needed (Dont beg me fo
 
 
 How to get the key
+
+
+
 First click green button says code
 
 second click download zip
